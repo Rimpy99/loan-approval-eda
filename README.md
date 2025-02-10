@@ -11,11 +11,11 @@ The main goal of this notebook is to find a machine learning model that best per
     - Statistical Summary.
   
 - model evaluation
-  - Find the dependent variable of the dataset (loan_status).
-  - Split the data into predictors (X) and target variable (y).
-  - Split the X and y datasets into training and testing sets.
-  - Train various machine learning models to evaluate their performance.
-  - Determine the best model for the dataset.
+  - Finding the dependent variable of the dataset (loan_status).
+  - Splitting the data into predictors (X) and target variable (y).
+  - Splitting the X and y datasets into training and testing sets.
+  - Training various machine learning models to evaluate their performance.
+  - Determining the best model for the dataset.
 
 ## Dataset
 
